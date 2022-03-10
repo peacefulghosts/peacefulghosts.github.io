@@ -2,34 +2,31 @@
 
 ---
 
-### Category Name 1 
+### The Ghosts: 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video width="528" height="528" controls>
+  <source src="images/blue.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video width="528" height="528" controls>
+  <source src="images/magenta.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<video width="528" height="528" controls>
+  <source src="images/red.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+<video width="528" height="528" controls>
+  <source src="images/yellow.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 ---
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
