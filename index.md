@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### The Ghosts: 
+## The Ghosts: 
 
 <video width="528" height="528" controls>
   <source src="images/blue.mp4" type="video/mp4">
