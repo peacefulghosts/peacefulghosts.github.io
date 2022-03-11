@@ -1,8 +1,8 @@
 ## The Project:
 
-"These four Peaceful Ghosts are part of an initial edition of 10 hand-made NFTs aimed at bringing spiritual wellness initiatives into the blockchain ecosystem. Peaceful Ghosts are friendly ghosts, different from the specters that haunt most people: greed, anxiety, boredom, anger, fear. They are the source of ease and clarity and all the qualities that make life a joy to live. Normally they live out their days unnoticed in our minds, but now they are making an appearance on the Avalanche blockchain.
+These four Peaceful Ghosts are part of an initial edition of 10 hand-made NFTs aimed at bringing spiritual wellness initiatives into the blockchain ecosystem. Peaceful Ghosts are friendly ghosts, different from the specters that haunt most people: greed, anxiety, boredom, anger, fear. They are the source of ease and clarity and all the qualities that make life a joy to live. Normally they live out their days unnoticed in our minds, but now they are making an appearance on the Avalanche blockchain.
 
-These first 10 NFTs are part of a proof-of-concept for a future programmatically generated NFT collection of Peaceful Ghosts that will be a part of a blockchain community building and spiritual wellness initiative. This project is supporting the United Nations SDG Agenda 2030 for good health and well-being.  "
+These first 10 NFTs are part of a proof-of-concept for a future programmatically generated NFT collection of Peaceful Ghosts that will be a part of a blockchain community building and spiritual wellness initiative. This project is supporting the United Nations SDG Agenda 2030 for good health and well-being.
 
 ## The Ghosts: 
 
